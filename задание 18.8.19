@@ -27,5 +27,5 @@ if age > 25:
     if bilets >= 3:
         summa = (dwa* bilets)-(dwa* bilets) / 100 * 10
 
-    print('Cумма за билет:990')
+    print('Cумма за билет:1390')
     print('Сумма за все выбранные билеты:',int(summa))
